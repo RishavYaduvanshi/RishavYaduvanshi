@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishavYaduvanshi" alt="rishavyaduvanshi" /></a> </p>
 
-- 🔭 I’m currently working as an **intern at Calsoft Pvt Ltd**
+- 🔭 I’m currently working as an **Software Developer at Calsoft Pvt Ltd**
 
 - 🌱 I’m currently learning **Data Engineer**
 
